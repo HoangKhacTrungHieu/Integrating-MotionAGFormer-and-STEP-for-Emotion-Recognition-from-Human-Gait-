@@ -1,1 +1,1 @@
-# Integrating-MotionAGFormer-and-STEP-for-Emotion-Recognition-from-Human-Gait-
+# Integrating-MotionAGFormer-and-STEP-for-Emotion-Recognition-from-Human-Gait
