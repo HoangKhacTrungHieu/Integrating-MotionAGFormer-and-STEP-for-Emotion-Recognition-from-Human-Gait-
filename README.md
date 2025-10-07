@@ -1,10 +1,15 @@
 # **Integrating-MotionAGFormer-and-STEP-for-Emotion-Recognition-from-Human-Gait**
 The official repository for "**Integrating-MotionAGFormer-and-STEP-for-Emotion-Recognition-from-Human-Gait**".
+This project ....... explores emotion recognition through human gait — the way a person walks.
 
 
 
 ## **About**
-This project integrates **3D extraction model/network???** with **classifier network**  to classify perceived human emotion from gaits method designed to teach large language models (LLMs) **parallel thinking** for complex, real-world reasoning tasks. Unlike existing methods that rely on supervised fine-tuning (SFT) over costly, synthetic data, our approach enables models to learn parallel behaviors through RL.
+This project proposes a novel framework that integrates **pose estimation** and **skeleton-based classification** to classify/regconize human emotions/emotions??? from walking videos. 
+
+
+
+method designed to teach large language models (LLMs) **parallel thinking** for complex, real-world reasoning tasks. Unlike existing methods that rely on supervised fine-tuning (SFT) over costly, synthetic data, our approach enables models to learn parallel behaviors through RL.
 
 ![..............](./fig/framework.jpg)
 
