@@ -29,7 +29,13 @@ pip install -r requirements.txt
 ## **Repository Structure**
 
 ## **Dataset**
+This is the link for the ??? dataset, containing 84 human gait walking videos:  
+👉 [https://drive.google.com/drive/folders/1JdY0hNhmFB86OiWyJWIQCqsXwxsgK6cf?usp=drive_link](https://drive.google.com/drive/folders/1JdY0hNhmFB86OiWyJWIQCqsXwxsgK6cf?usp=drive_link)
 
+relabelling.......................
+tách 672 80/20 cho train test
+ cách relabelling 
+  Each video in the Ewalk dataset, originally consisting of 240 frames, was segmented into 8 sub-videos, each containing 30 consecutive frames. As a result, from a total of 84 original videos, we generated 672 sub-videos. These sub-videos were subsequently split into training and testing sets using an 80/20 ratio, respectively. 
 Trình bày link dataset và cách relabelling 
 Repo đã được chỉnh sửa để hỗ trợ trích xuất đặc trưng từ 84 video của bộ dữ liệu Ewalk. Sau khi thực hiện bạn sẽ có cấu trúc dữ liệu như dưới đây:
 
